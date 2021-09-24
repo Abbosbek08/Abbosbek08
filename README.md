@@ -1,6 +1,6 @@
 ### Salom 👋
 #### Mening ismim Abbos va men Full Stack dasturchisiman
-![](https://app-us-east-1.t-cdn.net/5ea3e4a6fccadd392f62a083/users/6138a3770d90975369ffb7f7/6138a3770d90975369ffb7f7_591.png)
+![](https://raw.githubusercontent.com/Abbosbek08/Abbosbek08/main/banner.jpg)
 <!--
 **Abbosbek08/Abbosbek08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
